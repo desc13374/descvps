@@ -7,7 +7,7 @@ vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?type=ws&host=icy-
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Нидерланды
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&headerType=none&allowinsecure=0&type=tcp#🇩🇪 Германия 1
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#🇩🇪 Германия 2
-vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@node2.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🇸🇪 Швеция
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Швеция 2
+vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Швеция
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇫🇮 Финляндия
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&allowinsecure=0&type=tcp#🇩🇪 LTE
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&allowinsecure=0&type=tcp#🇩🇪 Мобильный Интернет
+vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@node2.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🇸🇪 Мобильный Интернет
