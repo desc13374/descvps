@@ -1,14 +1,15 @@
 #profile-title: DescVPN Beta
-#subscription-userinfo: upload=0; download=0; total=0; expire=67
+subscription-userinfo: upload=107374182400; download=1099511627776; total=0; expire=2179872000
 #support-url: https://t.me/desc_ai  
 #profile-update-interval: 1
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&nonce=QI_2w9Fk#Общий
-vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?type=ws&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=/eyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560#🇨🇦 Канада (Тест)
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#🇳🇱 Нидерланды
 vless://46f0a0f2-0c8c-0028-98d1-487ddf906314@45.145.6.247:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇩🇪 Германия 1
 vless://46f0a0f2-0c8c-0028-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&flow=xtls-rprx-vision#🇩🇪 Германия 2
 vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Швеция
+vless://46f0a0f2-0c8c-056e-98d1-487ddf906314@45.145.6.247:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇺🇿 Узбекистан 1
+vless://46f0a0f2-0c8c-056e-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=283f1c398542cccb&flow=xtls-rprx-vision#🇺🇿 Узбекистан 2
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇫🇮 Финляндия
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&allowinsecure=0&type=tcp#🇩🇪 Мобильный Интернет
-vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@node2.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🇸🇪 Мобильный Интернет
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹Белый список
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&allowinsecure=0&type=tcp#🇪🇺 Мобильный Интернет
+trojan://D0m15Y3JA8sn8GdfKvW4z6kM6juN0Lb_@s49209.cdn.ngenix.net:443?security=tls&type=ws&sni=s49209.cdn.ngenix.net&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fuser#🇪🇺 Мобильный Интернет
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Белый список
