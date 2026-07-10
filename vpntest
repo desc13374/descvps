@@ -2,17 +2,15 @@
 subscription-userinfo: upload=107374182400; download=1099511627776; total=0; expire=2179872000
 #support-url: https://t.me/desc_ai  
 #profile-update-interval: 1
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=storage.yandex.net&insecure=0&seq=you_are_beautiful5049&nonce=QI_2w9Fk#Общий
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#🇳🇱 Нидерланды
-vless://46f0a0f2-0c8c-0028-98d1-487ddf906314@45.145.6.247:443?encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇩🇪 Германия 1
+vless://46f0a0f2-0c8c-4003-98d1-487ddf906314@31.76.87.210:8443?encryption=none&security=tls&type=xhttp&sni=pl1.gobalance.live&fp=firefox&alpn=h2&host=pl1.gobalance.live&path=/api/v1/events&mode=auto#Общий
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@nl.cloudgamings.org:9443#🇳🇱 Нидерланды
+vless://2fb948c4-3120-415a-bf4f-be18c74cd466@151.101.117.176:443?security=tls&type=xhttp&headerType=&path=/&host=oh1.global.ssl.fastly.net&mode=packet-up&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=manage.fastly.com&fp=chrome&alpn=h3&fragment=3,1,tlshello#🇩🇪 Германия 1
 vless://46f0a0f2-0c8c-0028-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&flow=xtls-rprx-vision#🇩🇪 Германия 2
 vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=storage.yandex.net&type=tcp#🇸🇪 Швеция
-vless://46f0a0f2-0c8c-056e-98d1-487ddf906314@45.145.6.247:443?encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇺🇿 Узбекистан 1
-vless://46f0a0f2-0c8c-056e-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=283f1c398542cccb&flow=xtls-rprx-vision#🇺🇿 Узбекистан 2
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=storage.yandex.net&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🇫🇮 Финляндия 1
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=storage.yandex.net&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1#🇫🇮 Финляндия 2
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&sni=storage.yandex.net#🇸🇪 Швеция 2
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=storage.yandex.net&type=tcp#🇸🇪 Швеция 3
+vless://46f0a0f2-0c8c-000a-98d1-487ddf906314@45.145.6.247:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇫🇮 Финляндия 1
+vless://46f0a0f2-0c8c-000a-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&flow=xtls-rprx-vision#🇫🇮 Финляндия 2
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@217.herumhas.shop:5443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome#🇷🇺   Обход YouTube
 vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=firefox&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=storage.yandex.net&type=grpc#🇪🇺 Мобильный Интернет 1
 trojan://D0m15Y3JA8sn8GdfKvW4z6kM6juN0Lb_@s49209.cdn.ngenix.net:443?security=tls&type=ws&sni=s49209.cdn.ngenix.net&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fuser#🇪🇺 Мобильный Интернет 2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Белый список
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@138.16.186.81:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=www.ya.ru&pbk=JdgBWRW9oVqhmaKIZlEPo2FftgUf0QiuWoMAFWxlRTU&sid=a85b2f0272d396a0#🇪🇺 Oбход глушилок 1
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#🇪🇺 Oбход глушилок 1
