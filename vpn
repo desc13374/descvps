@@ -2,8 +2,8 @@
 subscription-userinfo: upload=107374182400; download=1099511627776; total=0; expire=2179872000
 #support-url: https://t.me/desc_ai  
 #profile-update-interval: 1
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&nonce=QI_2w9Fk#Общий
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#🇳🇱 Нидерланды
+hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@argg2.auragg.org:443/?sni=argg2.auragg.org#Общий
+vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&allowinsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=no.cache-4d8a.com&fp=safari&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&sid=9d84de9d9f7b85e9&allowinsecure=0&type=tcp&headerType=none#🇩🇪 Германия 1
 vless://46f0a0f2-0c8c-0028-98d1-487ddf906314@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&flow=xtls-rprx-vision#🇩🇪 Германия 2
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&allowinsecure=0&type=tcp&headerType=none#🇸🇪 Швеция
@@ -11,4 +11,3 @@ vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&allowinsecure=0&type=tcp&headerType=none#🇫🇮 Финляндия 2
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&allowinsecure=0&type=tcp#🇪🇺 Мобильный Интернет
 trojan://D0m15Y3JA8sn8GdfKvW4z6kM6juN0Lb_@s49209.cdn.ngenix.net:443?security=tls&type=ws&sni=s49209.cdn.ngenix.net&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fuser#🇪🇺 Мобильный Интернет
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Белый список
